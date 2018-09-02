@@ -1,0 +1,6 @@
+[submodule "epaper"]
+	path = epaper
+	url = https://github.com/soonuse/epd-library-python
+[submodule "qr"]
+	path = qr
+	url = https://github.com/rsc/qr
